@@ -1,6 +1,6 @@
 {
-    "lint": [
-        "eslint \"**/*.{ts,tsx}\"",
+    "*.{ts,tsx}": [
+        "eslint --fix",
         "npm run test:staged"
     ]
 }
