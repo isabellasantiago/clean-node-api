@@ -25,6 +25,7 @@ O projeto utilizou as seguintes principais tecnologias:
 - [NodeJS](https://nodejs.org/en/about)
 - [Typescript](https://www.typescriptlang.org)
 - [Jest](https://jestjs.io/pt-BR/)
+- [MongoDB](https://www.mongodb.com/)
 
 ## Design de Software e Prática de desenvolvimento utilizados
 
